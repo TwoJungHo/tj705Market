@@ -1,4 +1,3 @@
-개발 환경
 
 1. Development HardWare Tools
 - CPU: Intel Core i5-9400F CPU 2.90Ghz
