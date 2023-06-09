@@ -80,7 +80,7 @@ Individual Market Service based on Location
 ---
 
 
-> 리뷰 작성화면입니다.
+> 리뷰 작성화면입니다. 리뷰작성중 게시글 중간에 이미지도 첨부가 가능합니다.
 > 
 
 ---
