@@ -1,3 +1,19 @@
+개발 환경
+
+1. Development HardWare Tools
+- CPU: Intel Core i5-9400F CPU 2.90Ghz
+- RAM: 16.0GB
+- OS: Windows 10 Home(22H2)
+2. BackEnd
+- MSA Architecture with Java Spring Cloud (Based On Java Open Jdk 11)
+- Using [eclipse 2023.3.]
+3. FrontEnd
+- React Application on Node.Js v. 18.16.0 (with JavaScript ECMAScript 6)
+- Using [VS Code 1.78.2]
+4. Application Aim
+
+Individual Market Service based on Location
+
 
 ---
 > 회원가입 화면입니다.
