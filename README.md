@@ -20,7 +20,7 @@
 
 4. 작성한 판매글이 지도로 뿌려지게됩니다.
  
-![판매목록 지도로 뿌리기](https://github.com/TwoJungHo/tj705Market/assets/132986801/f3406627-b34d-4911-b896-807c61a77689)
+![판매목록 지도로 뿌리기](https://github.com/TwoJungHo/tj705Market/assets/132986801/f3406627-b34d-4911-b896-807c61a77689)   　　　　　
 　
  　　　
     　
