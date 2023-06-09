@@ -14,7 +14,9 @@
 ![글작성](https://github.com/TwoJungHo/tj705Market/assets/132986801/e809cdb0-9e25-4fba-8b4b-7f9f2cad5b0c)
 
 4. 작성한 판매글이 지도로 뿌려지게됩니다.
+5. 
 ![판매목록 지도로 뿌리기](https://github.com/TwoJungHo/tj705Market/assets/132986801/f3406627-b34d-4911-b896-807c61a77689)
+
 
 5. 작성한글의 내용이보이고 판매자옆 채팅이미지 클릭시
    새창이 열리며 판매자와 채팅이 시작되는 화면입니다.
