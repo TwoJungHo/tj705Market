@@ -45,7 +45,7 @@ Individual Market Service based on Location
 
 
 ---
-> 작성한 판매글이 지도로 뿌려지게됩니다.
+> 작성한 판매글이 일정거리내에 판매 물품 검색가능
 > 
 
 ---
